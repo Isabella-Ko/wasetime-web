@@ -1,0 +1,27 @@
+"Course Type","School","Lowest Eligible Year","Course Name","Instructor's Name","Semester","Day (1)","Period (1)","Day (2)","Period (2)","Overall Satisfaction","Difficulty of achieving high score","Is the class beneficial","Overall comment and evaluation regarding the class/instructor"
+"A2 Foreign Languages",,,"Japanese 1(1)","Sano Kaori","Fall","Wednesday",1,"Wednesday",2,3,5,3,"真的是非常基礎的日文課。老師也不太會仔細說明各文法的用法，比較重視實用所以課堂小活動很多。老師剛開始會一直催大家買課本，不過課堂中基本上用不到課本。"
+"B1 Core Mathematics",,,"Calculus A (2) ","Shuichi Kawashima","Fall Quarter","Tuesday",1,"Wednesday",3,4,5,3,"老師人很好也很認真，不過英文不太好也不太會解釋。上課基本上就是一直抄筆記。考試內容都是從筆記裡面的例題出的，一模一樣不會改數字。"
+"B2 Natural Science (Physics / Chemistry / Life science)",,,"General Chemistry A (2)","GUEGAN, Regis","Fall Quarter","Monday",1,"Thursday",5,4,5,3,"老師人超級好。內容就是高中課程的英文版。"
+"B1 Mathematics",,2,"Ordinary Differential Equations","DOU, Xiaoling","Fall","Monday",2,,,4,4,3,"老師是中國人 也就是說可以在課後用中文諮詢 評分是看平時的功課跟期中期末 總體而言不是很難 但是這個老師的教法個人感覺不是太好 上了這個之後想要上偏微分方程會有點困難"
+"B1 Mathematics",,2,"Discrete Mathematics","FUJIWARA, Makoto","Fall","Thursday",3,,,4,5,4,"老師其實不太會教 雖然人很好 但是他的給分很寬鬆 因為他說他不想當掉任何人"
+"B2 Natural Science (Physics / Chemistry / Life science)",,2,"modern physics","EGUSA, Ayako","Fall","Thursday",4,,,4,4,5,"老師人非常好 雖然英文並不是非常好 但是可以溝通 出的考試不會太難 只要有了解平常的東西的話 很容易拿高分"
+"B4 Information Science",,2,"Advanced Fortran Programming","ITO, Kunihiro","Fall","Wednesday",1,,,3,4,4,"跟其他程式課一樣每次上課都有作業。課堂前1/3的時間教授會講解，（英文腔調有點母湯）剩下時間就做作業。
+作業有點麻煩，但大部分專心做的話還是當天做得完的程度。每次作業最後都有一題進階題，沒一定要做，但到底會不會影響到分數我不知道（我都跳過，但搞不好都有做的話就會有A+呢）。
+期末作業就是出好幾大題要應用這學期學過的東西，之前的作業都有搞懂的話不是問題。
+翹課翹五次好像就會爆了要小心。
+遲到超過15分鐘應該還是可以跟助教要點名卡，只是建議別常這樣啦。
+教授跟助教都很樂意幫忙解決問題，所以遇到困難就舉手問吧。
+個人覺得Fortran這個語言很醜，寫他有點痛苦@@"
+"B4 Information Science",,2,"Advanced Java Programming","YAMANAKA, Naoya","Fall","Friday",2,,,4,4,5,"去年是星期四一限，但查了今年syllabus發現改成星期五二限了。
+每次上課有作業，課堂前1/3講解，剩下做作業。作業不一定課堂上寫得完，帶回家寫的話頂多花一個晚上還是可以解決。學期後半的作業是讓我們用java做射擊遊戲
+期末作業有自由發揮的空間，以老師做的憤怒鳥遊戲為基礎，去加更多東西讓他更好玩，發揮想像力認真做到夠有趣的話拿高分不難。
+有問題都可以問老師跟助教。
+遲到超過十五分鐘的話，要點名卡可能不會給哦要注意。
+個人覺得Java比Fortran簡單好看啦"
+"B1 Mathematics",,2,"Ordinary Differential Equations (2)","BOWEN, Mark","Fall","Wednesday",2,,,5,3,5,"Mark數學大老好老師～
+講課清楚，也會在dropbox放補充資料。有問題也可以盡量問他，他人很nice。
+但還是要好好讀哦，不認真讀還是會死滿慘的，題目都有寫完而且有整理複習過的話就沒事了。題目不用怕不夠寫。"
+"C Elective Courses","FSE",2,"Information Design: Methods and Applications","SCHNEIDER, Andreas","Fall","Monday",1,,,4,4,5,"這個老師是採取自我評分制的，也就是說在學期最後要自己給自己評分，只要班上大多數人沒有意見而且老師也覺得OK的話，那就是你的最終分數了，所以其實還算容易拿分。
+這門課的內容主要是讓你自己設計一樣東西，像我們是做了一個Calendar，其中會用到蠻多編程的東西的，所以建議有一定編程基礎的人選。"
+"C Elective Required Courses","FSE",2,"Circuit Theory A","OGAWA, Tetsuji/PAN, Zhenni/MORI, Tatsuya","Fall","Wednesday",5,,,4,2,5,"是一門需要用到微分方程基礎的課 主要在學如何分析電路並計算電流和電阻 拿高分會有點難 因為考試老師的題目都不是很簡單 但平常出的作業都有好好做完應該還是沒問題的"
+"C Elective Required Courses","FSE",2,"Logic Circuits","OGAWA, Tetsuji","Fall","Tuesday",5,,,5,5,4,"這堂課主要教的是邏輯 也就是常見的and or xor 等等組合在一起之後的電路 拿高分很簡單 因為這堂課沒有考試 只要在每堂課後做一下老師給的作業就可以了"
